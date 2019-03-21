@@ -1,0 +1,12 @@
+row 8
+column 11
+start 7,6
+goal 7,6
+nn nn nn nn nn nn nn nn nn nn nn
+nn 58 48 38 nn 24 20 24 28 38 nn
+nn 62 52 42 nn 14 10 14 24 34 nn
+nn 66 56 52 nn 10 0 10 20 30 nn
+nn 68 58 48 nn nn nn nn 24 34 nn
+nn 64 54 44 34 24 20 nn 28 38 nn
+nn 64 54 44 34 24 20 24 28 38 nn
+nn nn nn nn nn nn nn nn nn nn nn
